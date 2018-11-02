@@ -1,5 +1,5 @@
 
-  TeamSpeak 3 Oficial - IP/DNS: DWT.PT
+  TeamSpeak 3 Oficial DarkWorldTEAM
 
 
   There will be all Info about Updates/Feactures and all info about our comunity and Server!
