@@ -1,6 +1,6 @@
-########################################
+
   TeamSpeak 3 Oficial - IP/DNS: DWT.PT
-########################################
+
 
   There will be all Info about Updates/Feactures and all info about our comunity and Server!
 
@@ -12,8 +12,4 @@
 
   We have a Free Server where we are automating so that it is not necessary for an administrator or programmer to intervene for most problems or attempts to make the service unavailable (HACK / DDOS / SPAMMERS / BOTS ... etc)
 
-
-
-#########################################################\
-##new Lines will be added soon with full info about us!##\
-#########################################################\
+More info soon..
