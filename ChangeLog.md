@@ -1,5 +1,8 @@
 # Changelog:
 
+* **10/Fevereiro/2019**
+    - Criação de Páginas GitHub e Discord com informações actualizadas sobre a comunidade, de forma a fornecer uma hospedagem gratuita da melhor qualidade.
+
 * **20/Dezembro/2018**
     - **UPDATE** do Servidor de TeamSpeak 3 para a Versão 3.5.1 (17/12/2018).
 
