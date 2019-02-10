@@ -1,6 +1,6 @@
 # Changelog:
 
-* **20-Dezembro-2018**
+* **20/Dezembro/2018**
     - **UPDATE** do Servidor de TeamSpeak 3 para a Versão 3.5.1 (17/12/2018).
 
 * **19/Dezembro/2018**
