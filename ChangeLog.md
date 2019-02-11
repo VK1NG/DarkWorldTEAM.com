@@ -1,5 +1,12 @@
 # Changelog:
 
+* **11/Fevereiro/2019**
+    - Integração dos Módulos para o servidor de Discord ( Twitter/Discord - o Facebook realizará o post para o Twitter directamente ), de forma a fazer com que a informação chegue mais rapidamente a todos, sempre que ocorra algum update aos serviços.
+    - Criação dos Roles (Grupos) no Servidor de Discord e Configuração dos mesmos.
+    - Implementação do SlownMode de 1 minuto na sala de entrada para prevenir spam e Restrição do Servidor apenas a Membros verificados de forma a manter o servidor sem spam. (O servidor é Público tal como o de TeamSpeak 3 e assim será sempre!)
+    - Reorganização de Grupos/users de forma a Actualizar a base de dados do teamspeak e assim, manter apenas usuarios activos e com apenas uma conta.
+    - Adicionada 1 sala de Música para testar a qualidade do serviço, futuramente existiram mais 2 radios com musicas pedidas pelos utilizadores, de forma a obterem uma experiencia diferente e inovadora.
+
 * **10/Fevereiro/2019**
     - Criação de Páginas GitHub e Discord com informações actualizadas sobre a comunidade, de forma a fornecer uma hospedagem gratuita da melhor qualidade.
 
